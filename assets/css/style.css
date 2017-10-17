@@ -1,3 +1,10 @@
+/*Helper */
+@media screen and (max-width: 992px) {
+  .hidden-xs {
+    display: none;
+  }
+}
+
  /* bouton quizz */ 
 .button {
   display: inline-block;
