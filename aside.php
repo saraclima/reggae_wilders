@@ -1,19 +1,3 @@
-<!doctype html>
-<html lang="fr">
-
-<head>
-  <meta charset="utf-8">
-  <title>partie aside</title>
-
- 	<!-- BOOTSTRAP Css -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-
-  <link rel="stylesheet" href="style.css">
-
-</head>
-
-<body>
-	
 <div class="container container_custom">
 
 	<!--search-->
@@ -51,7 +35,7 @@
 			   <tr>
 			       <td>22h30</td>
 			       <td>20/10</td>
-			       <td>Pablo Moses <br> La scène Bastille</td>
+			       <td>Pablo Moses <br/> La scène Bastille</td>
 			   </tr>
 			   <tr>
 			       <td>11h</td>
@@ -88,5 +72,3 @@
 
 
 </body>
-   
-    </html>
