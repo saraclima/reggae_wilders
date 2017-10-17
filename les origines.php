@@ -1,3 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <!-- BOOTSTRAP Css -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
 
 <body>
 
@@ -18,7 +30,7 @@
                 <div class="col-xs-offset-1 col-xs-8 custom_col">
 
                     <h3>Le Reggae : Origines Et Histoire</h3>
-                    <p> Genre musical né en Jamaïque dans les années 1960, le reggae est le fruit d'un vaste métissage. La plus populaire des musiques jamaïcaines ne cesse d'évoluer et d'étendre son influence a travers le monde.
+                        <p> Genre musical né en Jamaïque dans les années 1960, le reggae est le fruit d'un vaste métissage. La plus populaire des musiques jamaïcaines ne cesse d'évoluer et d'étendre son influence a travers le monde.
                         <h4>Des origines métissées</h4>
                         Le reggae apparu en Jamaïque à la fin des années 1960 est le résultat de nombreuses rencontres et de métissages. Il dérive de musiques jamaïcaines comme le Ska et le Rocksteady mais plonge ses racines dans les musiques traditionnelles caribéennes telles que le Mento et le Calypso et les musiques africaines importées en Jamaïque par les esclaves. <br>Ce style musical a aussi été influencé par la musique américaine de type Rythm'n blues, Jazz et Soul music, alors très en vogue sur l'île.
                         <h4>Une étymologie incertaine</h4>
@@ -45,9 +57,29 @@
         <!--le patois-->
         <div class="container container_custom">
 
-            <div class="row row_custom">
-                <div class="col-xs-offset-1 col-xs-8 custom_col">
-                    <p>jriudsnjcjdn cdnjoshfoez fcndosjfn cod</p>
+            <div class="row row_custom patois">
+                <div class="col-xs-offset-1 col-xs-8 custom_col patoisbis">
+                    <h3>Le patois ou patwa</h3>
+                    <p>Les Rastas utilisent un patois légèrement différent du patois Jamaïcain : Le Dread Talk ou Patois Rasta. <br> Le patois Jamaïcain découle des racines Africaines alors que le dialecte Rasta est un jargon plus spécifique. Cependant les deux s’influencent et se mêlent souvent notamment parce que les jeunes Jamaïcains reprennent quelques caractères Rastas sans pour autant adhérer au Rastafarisme et que le patois Rasta se retrouve naturellement dans le Reggae, qui est le style musical dominant sur l’île. <br> Ce jargon Rasta est un mélange vivant de mots Créoles et de dialectes Africains, de métaphores Bibliques, d'inventions sémantiques, de formules argotiques. Cette mosaïque donne naissance à une langue originale qui se retrouve, entre autres dans toutes les chansons de Reggae. <br> Une des particularités principales du patois Rasta est l’inversion pronominale entre le nominatif et l’accusatif : Le "I" Anglais devient "Me" et inversement. Une autre caractéristique du patois Rasta est que les verbes sautent souvent dans les phrases (ellipse) e.g. "you a liar, you a thief " et les raccourcis Anglais usuels sont encore plus raccourcis ("want to" exprimé "wanna" en anglais parlé, donne "waan" en patois Rasta). Les Rastas modifient également les propositions Britanniques. Ils utilisent par exemple la préposition "a", issue de la langue Espagnole, plutôt que le "to" Anglais. Exemple "go a shop".  </p>
+                    Baldhead (littéralement un crâne chauve) : personne non rasta
+                    BigUp : marque de respect et salutation, big-up (to) : rendre hommage, aider, donner une force.
+                    Bredren, breda, brethren : frère.
+                    gal : girl, fille
+                    I-nity : Unité (Unity)
+                    I-Rey : excellent, super.
+                    I-rie : Salut ! Bien, cool, super, heureux, content
+                    Ital : de vital, sain, qui correspond aux exigences du mouvement rastafari
+                    Ital food : régime alimentaire rasta
+                    Ital clawt : vêtements dont la confection et les matériaux conviennent aux exigences du mouvement rastafari (par exemple de couleurs vert-jaune-rouge).
+                    Isez / Izes / Isis : Louer (Jah)
+                    I-scious : Conscient (Conscious)
+                    Jah : nom de la représentation d'un dieu unique pour les Rastas
+                    Maroons : Esclaves en fuite, réfugiés dans les montagnes.
+                    Massive / large : Respecté, honoré.
+                    Roots : Racines, en référence à l'Afrique et à tout ce qui est naturel, conforme à l'idéologie Rasta.
+                    sistren : sœur
+                    Zion : L'Ethiopie, l'Afrique, la Terre promise, le paradis Rasta.
+
                 </div>
             </div>
 
@@ -60,7 +92,12 @@
 
             <div class="row row_custom">
                 <div class="col-xs-offset-1 col-xs-8 custom_col">
-                    <p>jriudsnjcjdn cdnjoshfoez fcndosjfn cod</p>
+                    <h3>Petit Quizz !</h3>
+                        <div class="bouton">
+
+                            <button class="button">Ca roule ! </button>
+                            
+                        </div>
                 </div>
             </div>
 
@@ -69,6 +106,10 @@
 
 
 
+
+
+
+
 </body>
 
-
+</html>

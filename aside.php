@@ -1,5 +1,3 @@
-
-	
 <div class="container container_custom">
 
 	<!--search-->
@@ -37,7 +35,7 @@
 			   <tr>
 			       <td>22h30</td>
 			       <td>20/10</td>
-			       <td>Pablo Moses </br> La scène Bastille</td>
+			       <td>Pablo Moses <br/> La scène Bastille</td>
 			   </tr>
 			   <tr>
 			       <td>11h</td>
