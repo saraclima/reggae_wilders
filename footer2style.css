@@ -1,5 +1,5 @@
 .container_custom{
-    background-color: white;
+    background-color: #DBDBA5;
     height: 100vh;
       }
 .row_custom
@@ -7,9 +7,9 @@
     height: 10%;
     padding: 1px;
   text-align: center;
-   background-color: grey;
+   background-color: #DBDBA5;;
   font: 40px;
-  color: white;
+  color: black;
    }
 .col_custom
 {
@@ -20,7 +20,7 @@
 p
 {
     font-family: sans-serif;
-    font-size: 11px
+    font-size: 15px
 }
 
 ul.unstyle
