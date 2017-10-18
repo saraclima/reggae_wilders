@@ -1,25 +1,13 @@
-.container_custom{
-  background-color: #FFDD00;
-  height: 100vh;
- }
-.row_custom
+#footer/*to make footer stick to the bottom; not working as of now 17/10*/
 {
   height: 10%;
-  padding: 1px;
+  padding: 50px;
+  margin-top: 35px;
   text-align: center;
-  background-color: #DBDBA5;;
-  font: 40px;
+  font-size: 15px;
   color: black;
-}
-.col_custom
-{
-  border: 1px solid white;
-  height: 100%;
-}
-p
-{
-  font-family: sans-serif;
-  font-size: 20px
+  border:1px solid white;
+  width: 90%;
 }
 
 ul.unstyle
@@ -27,12 +15,4 @@ ul.unstyle
   list-style: none;
   font size: 30px;
 }
-#footer/*to make footer stick to the bottom; not working as of now 17/10*/
-{
-  height: 80px;
-  border:3px solid red;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  background-color: red;
-}
+
