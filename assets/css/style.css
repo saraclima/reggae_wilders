@@ -1,12 +1,20 @@
 /*Helper */
 
 @media screen and (max-width: 992px) {
-    .hidden-xs {
-        display: none;
-    }
+
+  .hidden-xs {
+    display: none;
+  }
+ 
+/* a changer*/
+  .logo{
+    width: : 100vw;
+  }
 }
 
-/* bouton quizz */
+
+ /* bouton quizz */ 
+
 
 .button {
     display: inline-block;
@@ -38,9 +46,67 @@
 .patois {
     background-color: #DBDBA5;
 }
+
+
+
+
+ /* page Playlist */ 
+
+ .flotte {
+
+float:left;
+
+}
+
+
+.legende_playlist {
+
+
+  line-height:20px;
+  padding: 12px;
+
+}
+
+.content_playlist {
+
+   padding: 15px;
+   float: right;
+}
+
+
+ /* header */ 
+
+
+.logocontainer {
+  background-color: orange;
+  height:80vh;
+}
+
+
+.logo {
+  height:100%;
+  width: 100%;
+  background-image: url('assets/logo2.png');
+  background-size:cover;
+}
+
+.container_nav {
+  height: 50px;
+  font-style: ubuntu;
+  font-weight: bold;
+  background-color: #DBDBA5;
+  padding-left: 100px;
+}
+
+a:link {color: black;}
+a:visited {color: gray;}
+a:hover, a:focus, a:active {color: red;}
+
+.item_nav {
+  padding: 13px;
+}
  
 /*tableau*/
-
 .table {
     border-width: 1px;
     caption-side: bottom;
@@ -54,3 +120,4 @@
 caption{
     text-align: center;
 }
+
