@@ -1,5 +1,5 @@
 .container_custom{
-  background-color: #DBDBA5;
+/*pas de background-color sinon ca deborde sur aside*/
   height: 100vh;
 }
 .row_custom
@@ -7,7 +7,7 @@
   height: 10%;
   padding: 1px;
   text-align: center;
-  background-color: #DBDBA5;;
+  
   font: 40px;
   color: black;
 }

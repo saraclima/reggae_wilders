@@ -1,8 +1,12 @@
 /*Helper */
+
 @media screen and (max-width: 992px) {
+
   .hidden-xs {
     display: none;
   }
+ 
+/* a changer*/
   .logo{
     width: : 100vw;
   }
@@ -10,38 +14,39 @@
 
 
  /* bouton quizz */ 
+
+
 .button {
-  display: inline-block;
-  padding: 15px 25px;
-  font-size: 24px;
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  outline: none;
-  color: #fff;
-  background-color: #4CAF50;
-  border: none;
-  border-radius: 15px;
-  box-shadow: 0 9px #999;
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
 }
 
 .button:hover {
-  background-color: #3e8e41}
-
-.button:active {
-  background-color: #3e8e41;
-  box-shadow: 0 5px #666;
-  transform: translateY(4px);
+    background-color: #3e8e41
 }
 
- /* background-color */ 
-.patois{
+.button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+/* background-color */
+
+.patois {
     background-color: #DBDBA5;
 }
 
-.patoisbis{
-  background-color: #3e8e41;
-}
 
 
 
@@ -100,3 +105,19 @@ a:hover, a:focus, a:active {color: red;}
 .item_nav {
   padding: 13px;
 }
+ 
+/*tableau*/
+.table {
+    border-width: 1px;
+    caption-side: bottom;
+    font-style: italic;
+    align-content: center;
+    padding-left: 150px;
+    line-height: 25px;
+    text-align: justify;
+}
+
+caption{
+    text-align: center;
+}
+
