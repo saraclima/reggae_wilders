@@ -15,19 +15,19 @@
 		<nav>
 			<div class="container_fluid container_nav">		
 				<div class="row row_nav">
-					<div class="col-xs-offset-1 col-xs-2 item_nav">
+					<div class="col-md-2 col-xs-12 item_nav">
 						<a href="home.php"> Home</a>
 					</div>
-					<div class="col-xs-2 item_nav">
-						<a href="#"> Quoi de Neuf</a>
+					<div class="col-md-2 col-xs-12 item_nav">
+						<a href="quoideneuf.php"> Quoi de Neuf</a>
 					</div>
-					<div class="col-xs-2 item_nav">
+					<div class="col-md-2 col-xs-12 item_nav">
 						<a href="playlist.php"> Sound System</a>
 					</div>
-					<div class="col-xs-2 item_nav">
+					<div class="col-md-2 col-xs-12 item_nav">
 						<a href="index.php"> Origins</a>
 					</div>
-					<div class="col-xs-2 item_nav">
+					<div class="col-md-2 col-xs-12 item_nav">
 						<a href="contact.php"> Contact</a>
 					</div>
 				</div>
@@ -36,8 +36,8 @@
 
 	<!-- LOGO -->
 	<header>
-		<div class="logocontainer">
-			<div class="logo col-xs-12">
+		<div class="logocontainer col-xs-12">
+			<div class="logo">
 
 			</div>
 		</div>

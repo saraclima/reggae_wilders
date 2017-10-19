@@ -18,7 +18,9 @@ h3 {
 }
 
 
-
+body {
+    background-color: #DBDBA5;
+}
 /*Helper */
 
 @media screen and (max-width: 992px) {
@@ -87,13 +89,13 @@ h3 {
 /* header */
 
 .logocontainer {
-    background-color: orange;
-    height: 80vh;
+    background-color: #DBDBA5;
+    height: 100vh;
 }
 
 .logo {
-    height: 100%;
     width: 100%;
+    height: 100%    
     background-image: url('assets/logo2.png');
     background-size: cover;
 }
@@ -104,6 +106,13 @@ h3 {
     font-weight: bold;
     background-color: #DBDBA5;
     padding-left: 100px;
+}
+
+.item_nav {
+
+    background-color: #DBDBA5;
+
+
 }
 
 a:link {
@@ -117,7 +126,7 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-    color: red;
+    color: green;
 }
 
 .item_nav {
@@ -145,4 +154,9 @@ caption {
     height: 250px;
     margin-left: 50px;
     margin-bottom: 20px;
+}
+
+aside {
+
+    background-color: #DBDBA5;
 }
