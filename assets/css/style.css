@@ -1,20 +1,40 @@
+p {
+    font-size: 18px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: #165E00;
+}
+
+h3 {
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+
+
 /*Helper */
 
 @media screen and (max-width: 992px) {
 
-  .hidden-xs {
-    display: none;
-  }
- 
-/* a changer*/
-  .logo{
-    width: : 100vw;
-  }
+    .hidden-xs {
+        display: none;
+    }
+
+    /* a changer*/
+    .logo {
+        width: : 100vw;
+    }
 }
 
 
- /* bouton quizz */ 
-
+/* bouton quizz */
 
 .button {
     display: inline-block;
@@ -43,70 +63,69 @@
 
 /* background-color */
 
-.patois {
+.contenu {
     background-color: #DBDBA5;
 }
 
+/* page Playlist */
 
-
-
- /* page Playlist */ 
-
- .flotte {
-
-float:left;
-
+.flotte {
+    float: left;
 }
 
 
 .legende_playlist {
-
-
-  line-height:20px;
-  padding: 12px;
-
+    line-height: 20px;
+    padding: 12px;
 }
 
 .content_playlist {
-
-   padding: 15px;
-   float: right;
+    padding: 15px;
+    float: right;
 }
 
-
- /* header */ 
-
+/* header */
 
 .logocontainer {
-  background-color: orange;
-  height:80vh;
+    background-color: orange;
+    height: 80vh;
 }
 
-
 .logo {
-  height:100%;
-  width: 100%;
-  background-image: url('assets/logo2.png');
-  background-size:cover;
+    height: 100%;
+    width: 100%;
+    background-image: url('assets/logo2.png');
+    background-size: cover;
 }
 
 .container_nav {
-  height: 50px;
-  font-style: ubuntu;
-  font-weight: bold;
-  background-color: #DBDBA5;
-  padding-left: 100px;
+    height: 50px;
+    font-style: ubuntu;
+    font-weight: bold;
+    background-color: #DBDBA5;
+    padding-left: 100px;
 }
 
-a:link {color: black;}
-a:visited {color: gray;}
-a:hover, a:focus, a:active {color: red;}
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: gray;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: red;
+}
 
 .item_nav {
-  padding: 13px;
+    padding: 13px;
 }
- 
+
 /*tableau*/
+
 .table {
     border-width: 1px;
     caption-side: bottom;
@@ -117,7 +136,13 @@ a:hover, a:focus, a:active {color: red;}
     text-align: justify;
 }
 
-caption{
+caption {
     text-align: center;
 }
 
+.rasta {
+    width: 430px;
+    height: 250px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
