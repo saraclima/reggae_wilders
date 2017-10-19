@@ -88,6 +88,12 @@ body {
 
 /* header */
 
+.mySlides {
+
+    height:500px;
+
+}
+
 .logocontainer {
     background-color: #DBDBA5;
     height: 100vh;
@@ -111,6 +117,16 @@ body {
 .item_nav {
 
     background-color: #DBDBA5;
+    padding: 13px;
+
+
+}
+
+.item_nav_1{
+
+    background-color: #DBDBA5;
+    padding: 13px;
+    font-style: koolbeans;
 
 
 }
@@ -129,9 +145,7 @@ a:active {
     color: green;
 }
 
-.item_nav {
-    padding: 13px;
-}
+
 
 /*tableau*/
 
