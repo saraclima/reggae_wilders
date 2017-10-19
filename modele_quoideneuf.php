@@ -1,14 +1,14 @@
-<link rel="stylesheet" type="text/css" href="assets/css/neufstyle.css">
-<?php include("includes/header.php"); 
-?>
+<?php include ('includes/header.php'); ?>
+<!--link pour les base de H2 -->
 
-<div class="container_fluid container_nam">
-<div class="col-md-9 custom_col">
-	<div class="row row_custom_first">
-		<!--page en cours-->
-		<h2> Quoi de neuf</h2>
-	</div> <!--end row first-->
+<!-- Principal content -->
+<div class="col-md-9 col-xs-12">
 
+<section>
+
+<!--page en cours-->
+	<h2 class="title_nam"> Quoi de neuf</h2>
+		
 	<div class="row row_custom_second">
 		
 		<h2> Dernier release de Sean taylor : Vibes de Yah</h2>
@@ -56,16 +56,28 @@
 
 		<div class="row">
 	</div>
-	<?php include("includes/footer.php"); 
-?>
 
 	
 	</div><!--end row fourth-->
 	
-</div> <!--end container-->
+ <!--end container-->
+
+</section>
+
+</div>
 
 
 
+<!-- Aside -->
+<?php include('includes/aside.php'); ?>
+
+<!-- Footer -->
+<?php include('includes/footer.php'); ?>
 
 
 
+</body>
+
+
+
+</html>
