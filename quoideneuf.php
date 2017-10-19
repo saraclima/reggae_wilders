@@ -12,7 +12,7 @@
 	<div class="row row_custom_second">
 		
 		<h2> Dernier release de Sean taylor : Vibes de Yah</h2>
-		<img src ="icon/png/sean.png" width="200px" height="200px" class="imageright">
+		<img src ="assets/images/sean.png" width="200px" height="200px" class="imageright">
 		<p>Nouveauté: Sean Taylor - Vibes Deh Yah (Feat. Vershon)
 	GhanaNdwom.net
 
@@ -33,12 +33,15 @@
 	<div class="row row_custom_third">
 	
 
-			<h2> Dernier release de Sean taylor : Vibes de Yah</h2>
+			<h2> Mardjenal - Smile Again</h2>
 
-			<img src ="icon/png/sean.png" width="200px" height="200px" class="imageleft">
-			<p>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker.
-		
-			
+			<img src ="assets/images/nampage.jpg" width="200px" height="200px" class="imageleft">
+			<p>
+			Cet été on a eu droit à quelques belles sorties musicales dont le troisième projet de Mardjenal Smile Again. Mardjenal s’éloigne de son EP éponyme pour se rapprocher légèrement de sa mixtape Smilesortie en 2013. Une vibe plus chaude, avec pour mission de redonner le smile aux auditeurs !
+
+Mission accomplie puisque le premier tune de l’album, Reggae Music, fait le travail en donnant une bonne dose d’énergie sur un thème qui touchera tous les afficionados de musique jamaïcaine. L’artiste n’a pas peur d’utiliser les armes lyricales qu’il a acquises sur la route, seul ou accompagné, pour faire feu musicalement et toucher sa cible en plein cœur (Peng peng en feat Kenyon et Volodia). La route, les tournées ou bien simplement le temps ont certainement permis à l’artiste de proposer un projet construit et travaillé. On ressent un vrai gain de maturité sur cet opus soigné et très bien produit par Evidence Music, le label suisse dont le sérieux n'est plus à prouver. 
+Ici, le travail de qualité rime avec la légèreté et la fraîcheur de la nouvelle génération qui dynamise la scène reggae française. On vous recommande l’écoute de cet opus en grande quantité pour affronter les problèmes, les bad énergies et reprendre des forces (Take it Easy). Le jeune artiste se laisse aller aisément en français ou en anglais sur tous les thèmes. Smile Again est un projet plein d’enseignements avec un message fort sur des morceaux comme Teach the Youth ou One Drop Basse en collaboration avec Sir Samuel. 
+Au final, Mardjenal nous livre avec Smile Again un album engagé, plein d’énergie et de fraîcheur posé sur une base solide et terriblement bien travaillée.
 			</p>	
 			
 
@@ -47,7 +50,7 @@
 	
 	<div class="row row_custom_fourth">
 		
-		<img src ="icon/png/sean.png" width="200px" height="200px" class="imageright">
+		<img src ="assets/images/sean.png" width="200px" height="200px" class="imageright">
 		
 
 		<h2> Dernier release de Sean taylor : Vibes de Yah</h2>
@@ -69,10 +72,10 @@
 
 
 <!-- Aside -->
-<?php include('includes/aside.php'); ?>
+<?php include("reggae_wilders/includes/aside.php"); ?>
 
 <!-- Footer -->
-<?php include('includes/footer.php'); ?>
+<?php include("includes/footer.php"); ?>
 
 
 
