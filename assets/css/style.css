@@ -22,7 +22,6 @@ body {
     background-color: #DBDBA5;
 }
 /*Helper */
-
 @media screen and (max-width: 992px) {
 
     .hidden-xs {
@@ -37,7 +36,6 @@ body {
 
 
 /* bouton quizz */
-
 .button {
     display: inline-block;
     padding: 15px 25px;
@@ -64,13 +62,11 @@ body {
 }
 
 /* background-color */
-
 .contenu {
     background-color: #DBDBA5;
 }
 
 /* page Playlist */
-
 .flotte {
     float: left;
 }
