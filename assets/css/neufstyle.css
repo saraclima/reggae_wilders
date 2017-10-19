@@ -1,11 +1,27 @@
-h2
+.container_nam
 {
-	font-size: :30px;
-	text-align: center;
-
+	margin:20px;
+	padding:20px;
+	font-family: sans-serif;
 }
+
 .row_custom_first
 {
-	color: yellow;
-	height: 100vh;
+	background-color: yellow;
+	height: 10vh;
+}
+.imageleft
+{
+	display: block;
+	float: left;
+}
+.imageright
+{
+	display: block;
+	float: right;
+}
+.col_one
+{
+height: 15vh;
+color: blue;
 }
