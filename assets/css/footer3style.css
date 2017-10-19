@@ -1,0 +1,13 @@
+footer
+{
+   padding: 50px;
+  margin-top: 50px;
+  text-align: center;
+  }
+
+#footer/*to make footer stick to the bottom; not working as of now 17/10*/
+{
+  border:1px solid white;
+  width: 90%;
+  
+}
