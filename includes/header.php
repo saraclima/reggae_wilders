@@ -17,7 +17,7 @@
 			<div class="container_fluid container_nav">		
 				<div class="row row_nav">
 					<div class="col-md-2 col-xs-12 item_nav">
-						<a href="home.php"> Home</a>
+						<a href="index.php"> Home</a>
 					</div>
 					<div class="col-md-2 col-xs-12 item_nav">
 						<a href="quoideneuf.php"> Quoi de Neuf</a>
@@ -26,7 +26,7 @@
 						<a href="playlist.php"> Sound System</a>
 					</div>
 					<div class="col-md-2 col-xs-12 item_nav">
-						<a href="index.php"> Origins</a>
+						<a href="lesorigines.php"> Origins</a>
 					</div>
 					<div class="col-md-2 col-xs-12 item_nav">
 						<a href="contact.php"> Contact</a>
