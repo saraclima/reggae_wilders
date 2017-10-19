@@ -1,0 +1,176 @@
+p {
+    font-size: 18px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: #165E00;
+}
+
+h3 {
+    margin-left: 50px;
+    font-weight: bold;
+}
+
+
+body {
+    background-color: #DBDBA5;
+}
+/*Helper */
+
+@media screen and (max-width: 992px) {
+
+    .hidden-xs {
+        display: none;
+    }
+
+    /* a changer*/
+    .logo {
+        width: : 100vw;
+    }
+}
+
+
+/* bouton quizz */
+
+.button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+.button:hover {
+    background-color: #3e8e41
+}
+
+.button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+/* background-color */
+
+.contenu {
+    background-color: #DBDBA5;
+}
+
+/* page Playlist */
+
+.flotte {
+    float: left;
+}
+
+
+.legende_playlist {
+    line-height: 20px;
+    padding: 12px;
+}
+
+.content_playlist {
+    padding: 15px;
+    float: right;
+}
+
+/* header */
+
+.mySlides {
+
+    height:500px;
+
+}
+
+.logocontainer {
+    background-color: #DBDBA5;
+    height: 100vh;
+}
+
+.logo {
+    width: 100%;
+    height: 100%    
+    background-image: url('assets/logo2.png');
+    background-size: cover;
+}
+
+.container_nav {
+    height: 50px;
+    font-style: ubuntu;
+    font-weight: bold;
+    background-color: #DBDBA5;
+    padding-left: 100px;
+}
+
+.item_nav {
+
+    background-color: #DBDBA5;
+    padding: 13px;
+
+
+}
+
+.item_nav_1{
+
+    background-color: #DBDBA5;
+    padding: 13px;
+    font-style: koolbeans;
+
+
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: gray;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: green;
+}
+
+
+
+/*tableau*/
+
+.table {
+    border-width: 1px;
+    caption-side: bottom;
+    font-style: italic;
+    align-content: center;
+    padding-left: 150px;
+    line-height: 25px;
+    text-align: justify;
+}
+
+caption {
+    text-align: center;
+}
+
+.rasta {
+    width: 430px;
+    height: 250px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+aside {
+
+    background-color: #DBDBA5;
+}
