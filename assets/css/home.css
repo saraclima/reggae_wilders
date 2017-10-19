@@ -1,6 +1,6 @@
 .text {
     position: absolute;
-    top: 3%;
+    top: -3%;
     right: 30%;
     text-align: center;
     color: white;
@@ -9,5 +9,6 @@
 .text h2 {
     font-size: 50px;
     line-height: 80px;
+    color: white;
 }
 
