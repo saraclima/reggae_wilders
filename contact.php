@@ -1,5 +1,5 @@
 <?php include ('includes/header.php'); ?>
-<link rel="stylesheet" href="contact.css">
+<link rel="stylesheet" href="assets/css/contact.css">
 
 <!-- formulaire de contact -->
 

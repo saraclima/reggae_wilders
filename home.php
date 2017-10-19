@@ -8,29 +8,32 @@
     <link rel="stylesheet" type="text/css" href="assets/css/styleheader.css">
     <link rel="stylesheet" type="text/css" href="assets/css/footer2style.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css">
-    <link rel="stylesheet" href="assets/css/home.css">
+    <link rel="stylesheet" type="text/css" href="assets/css/home.css">
 </head>
 
 <body>
     <!-- BARRE DE NAVIGATION -->
-    <nav>
-        <div class="container_fluid container_nav">
-            <div class="row row_nav">
-                <div class="col-xs-3 item_nav">
-                    <a href="#"> Quoi de Neuf</a>
-                </div>
-                <div class="col-xs-3 item_nav">
-                    <a href="#"> Sound System</a>
-                </div>
-                <div class="col-xs-3 item_nav">
-                    <a href="#"> Origins</a>
-                </div>
-                <div class="col-xs-3 item_nav">
-                    <a href="#"> Contact</a>
-                </div>
-            </div>
-        </div>
-    </nav>
+		<nav>
+			<div class="container_fluid container_nav">		
+				<div class="row row_nav">
+					<div class="col-xs-offset-1 col-xs-2 item_nav">
+						<a href="home.php"> Home</a>
+					</div>
+					<div class="col-xs-2 item_nav">
+						<a href="#"> Quoi de Neuf</a>
+					</div>
+					<div class="col-xs-2 item_nav">
+						<a href="playlist.php"> Sound System</a>
+					</div>
+					<div class="col-xs-2 item_nav">
+						<a href="index.php"> Origins</a>
+					</div>
+					<div class="col-xs-2 item_nav">
+						<a href="contact.php"> Contact</a>
+					</div>
+				</div>
+			</div>
+		</nav>
 
     <!--grand visuel -->
     <div class="container_fluide">
@@ -38,6 +41,6 @@
             <div class="text">
                 <h2>WELCOME TO OUR BLOG <br> REGGAE WILDERS</h2>
             </div>
-            <img src="contact.jpg" width="103%" height="100%" alt="">
+            <img src="assets/images/contact.jpg" width="103%" height="100%" alt="">
         </div>
     </div>
