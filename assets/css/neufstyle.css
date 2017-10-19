@@ -1,0 +1,39 @@
+.container_custom
+{
+	margin:20px;
+	padding:20px;
+}
+
+.row_custom_first
+{
+	background-color: yellow;
+	height: 10vh;
+}
+
+.imageleft
+{
+	display: block;
+	margin-left: 50px;
+	margin-right: 30px;
+	margin-bottom: 20px;
+	float: left;
+	padding : 10px;
+	text-align: right;
+}
+
+.imageright
+{
+	display: block;
+	float: right;
+	margin-left: 50px;
+	margin-right: 30px;
+	margin-bottom: 20px;
+	padding : 10px;
+	text-align: left;
+}
+
+.col_one
+{
+height: 15vh;
+color: blue;
+}
