@@ -18,17 +18,17 @@
                 <h3>Une étymologie incertaine</h3>
                 <p>L'étymologie du mot "reggae" est incertaine. Il dériverait de l'anglais regular people ("gens du peuple") ou de raggedy ("déguenillé"). D'autres sources indiquent qu'il vient de l'argot jamaïcain streggae ("femme facile"). <br> Ce qui est sûr, c'est que le terme de reggae a été utilisé pour la première fois dans la chanson Do the reggae écrite en 1968 par Toots, leader du groupe The Maytals. </p>
 
-               <img src="icon/png/rasta2.jpg" class="rasta" alt="Photo musicien rasta" />
-               
-                <img src="icon/png/rasta3.jpg" class="rasta" alt="Photo israel vibration" />
-                
+                <img src="assets/images/rasta2.jpg" class="rasta" alt="Photo musicien rasta" />
+
+                <img src="assets/images/rasta3.jpg" class="rasta" alt="Photo israel vibration" />
+
                 <p>Moyen d'expression de la population noire et des ghettos, ce genre musical était dès son origine porteur d'un message politique et religieux : le rastafarisme. <br> Il s'agit d'un courant mystique prêchant le retour en Afrique de tous les descendants d'esclaves disséminés sur le continent américain et situant la terre promise des Noirs africains en Éthiopie. Un succès international Si le reggae a fait le tour du monde, c'est bien sûr grâce à Bob Marley qui a été et demeure son principal ambassadeur bien au-delà des frontières de la Jamaïque. <br> Même après avoir connu un succès fulgurant, à partir de 1973, Bob Marley continua à prôner la philosophie rasta dans ses chansons, affirmant : "La musique est la religion et la religion la musique. Le reggae est une communication, la communication la plus douce".</p>
 
-                <img src="icon/png/rastafarianism.jpg" class="rasta" alt="Photo Rastas religieux" />
-                
-                <img src="icon/png/communaute.jpg" class="rasta" alt="Photo d'une communauté rasta" />
-                
-                
+                <img src="assets/images/rastafarianism.jpg" class="rasta" alt="Photo Rastas religieux" />
+
+                <img src="assets/images/communaute.jpg" class="rasta" alt="Photo d'une communauté rasta" />
+
+
 
                 <p>En 1974, Eric Clapton se classa au sommet des hit-parades avec une reprise de "I Shot the Sheriff". A la même période, Keith Richards guitariste des Rolling Stones affiche ouvertement sa passion pour le reggae et les Clash, pourtant représentants de la scène punk londonienne, incorporent dans leur musique des éléments rythmiques de ce style. <br> En 1975, le succès du film The Harder They Come permit une percée de cette musique aux Etats-Unis. La bande-originale avait été composée par le chanteur Jimmy Cliff, qui tenait aussi le rôle principal du film.</p>
 
@@ -101,17 +101,17 @@
                             <td>Zion : L'Ethiopie, l'Afrique, la Terre promise, le paradis Rasta</td>
                         </tr>
                     </table>
-               
+
                 </div>
             </div>
         </section>
 
-        </div>  <!--div ouverte mais si je la ferme je fais tout peter :/-->
-               
-        <!-- Aside -->
-        <?php include ('includes/aside.php'); ?>
+    </div>
+    
 
-        <!-- Footer -->
-        <?php include ('includes/footer.php'); ?>
+    <!-- Aside -->
+    <?php include ('includes/aside.php'); ?>
 
-        </div>
+</div>
+<!-- Footer -->
+<?php include ('includes/footer.php'); ?>
