@@ -118,14 +118,7 @@ body {
 
 }
 
-.item_nav_1{
 
-    background-color: #DBDBA5;
-    padding: 13px;
-    font-style: koolbeans;
-
-
-}
 
 a:link {
     color: black;
@@ -166,7 +159,9 @@ caption {
     margin-bottom: 20px;
 }
 
+
 aside {
 
     background-color: #DBDBA5;
 }
+
