@@ -8,11 +8,13 @@ body {
     background: rgba(200, 200, 200, 0.51);
     border-radius: 4px;
     top: 50px;
+    margin-bottom: 5%;
 }
 
 h2 {
     text-align: center;
     color: #fff;
+    margin: 45px;
 }
 
 p {
