@@ -18,7 +18,9 @@ h3 {
 }
 
 
-
+body {
+    background-color: #DBDBA5;
+}
 /*Helper */
 @media screen and (max-width: 992px) {
 
@@ -82,14 +84,20 @@ h3 {
 
 /* header */
 
+.mySlides {
+
+    height:500px;
+
+}
+
 .logocontainer {
-    background-color: orange;
-    height: 80vh;
+    background-color: #DBDBA5;
+    height: 100vh;
 }
 
 .logo {
-    height: 100%;
     width: 100%;
+    height: 100%    
     background-image: url('assets/logo2.png');
     background-size: cover;
 }
@@ -102,6 +110,16 @@ h3 {
     padding-left: 100px;
 }
 
+.item_nav {
+
+    background-color: #DBDBA5;
+    padding: 13px;
+
+
+}
+
+
+
 a:link {
     color: black;
 }
@@ -113,12 +131,10 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-    color: red;
+    color: green;
 }
 
-.item_nav {
-    padding: 13px;
-}
+
 
 /*tableau*/
 
@@ -143,6 +159,9 @@ caption {
     margin-bottom: 20px;
 }
 
-.asidec{
-    height: 100vh;
+
+aside {
+
+    background-color: #DBDBA5;
 }
+
