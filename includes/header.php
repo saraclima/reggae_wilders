@@ -11,6 +11,29 @@
 </head>
 
 <body>
+	<!-- BARRE DE NAVIGATION -->
+		<nav>
+			<div class="container_fluid container_nav">		
+				<div class="row row_nav">
+					<div class="col-xs-offset-1 col-xs-2 item_nav">
+						<a href="home.php"> Home</a>
+					</div>
+					<div class="col-xs-2 item_nav">
+						<a href="#"> Quoi de Neuf</a>
+					</div>
+					<div class="col-xs-2 item_nav">
+						<a href="playlist.php"> Sound System</a>
+					</div>
+					<div class="col-xs-2 item_nav">
+						<a href="index.php"> Origins</a>
+					</div>
+					<div class="col-xs-2 item_nav">
+						<a href="contact.php"> Contact</a>
+					</div>
+				</div>
+			</div>
+		</nav>
+
 	<!-- LOGO -->
 	<header>
 		<div class="logocontainer">
@@ -18,25 +41,7 @@
 
 			</div>
 		</div>
-		<!-- BARRE DE NAVIGATION -->
-		<nav>
-			<div class="container_fluid container_nav">		
-				<div class="row row_nav">
-					<div class="col-xs-3 item_nav">
-						<a href="#"> Quoi de Neuf</a>
-					</div>
-					<div class="col-xs-3 item_nav">
-						<a href="#"> Sound System</a>
-					</div>
-					<div class="col-xs-3 item_nav">
-						<a href="#"> Origins</a>
-					</div>
-					<div class="col-xs-3 item_nav">
-						<a href="#"> Contact</a>
-					</div>
-				</div>
-			</div>
-		</nav>
+		
 	</header>
 
 
