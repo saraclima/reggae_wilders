@@ -19,19 +19,19 @@
 
             		<div class="col-md-2 col_custom">
                          <a href="https://facebook.com/">
-                          <img src="icon/png/facebook.png" width="40px" height="40px">
+                          <img src="\reggae_wilders/assets/images/facebook.png" width="40px" height="40px">
                          </a>
                		 </div>
                 		
                     <div class="col-md-2 col_custom">
                          <a href="https://twitter.com/">
-                         <img src="icon/png/twitter.png" width="40px" height="40px">
+                         <img src="\reggae_wilders/assets/images/twitter.png" width="40px" height="40px">
                          </a>
                     </div>
                     
                 	<div class="col-md-2 col_custom">
                         <a href="https://www.youtube.com/">
-                         <img src="icon/png/youtube.png" width="40px" height="40px"> 
+                         <img src="\reggae_wilders/assets/images/youtube.png" width="40px" height="40px"> 
                          </a>                
                     </div>
 
