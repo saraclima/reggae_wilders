@@ -17,7 +17,8 @@
 				<h2> Dernier release de Sean taylor : Vibes de Yah</h2>
 				<a href="https://www.reverbnation.com/seantaylorgh">
 				<img src ="assets/images/sean.png" width="300px" height="300px" class="imageleft"> </a>
-				<p>Nouveauté: Sean Taylor - Vibes Deh Yah (Feat. Vershon)
+				<p>19/10/2017 <br/>
+					Nouveauté: Sean Taylor - Vibes Deh Yah (Feat. Vershon)
 				GhanaNdwom.net
 
 				Theophilus Tettey Taylor, né le 13 mai 1992 à Osu, banlieue de la région du Grand Accra (capitale du Ghana-Afrique de l'Ouest) a commencé sa carrière musicale à 13 ans en tant qu'artiste "Kasahare" de Hiplife, trouvé la lumière "et a divergé à faire la musique à plein temps de Reggae / Dancehall à l'âge de 14 ans jusqu'à ce jour.
@@ -38,9 +39,10 @@
 			</a>
 
 		</div>
-				<p>Cet été on a eu droit à quelques belles sorties musicales dont le troisième projet de Mardjenal Smile Again. Mardjenal s’éloigne de son EP éponyme pour se rapprocher légèrement de sa mixtape Smilesortie en 2013. Une vibe plus chaude, avec pour mission de redonner le smile aux auditeurs !
+				<p> 12/10/2017 <br/>
+					Cet été on a eu droit à quelques belles sorties musicales dont le troisième projet de Mardjenal Smile Again. Mardjenal s’éloigne de son EP éponyme pour se rapprocher légèrement de sa mixtape Smilesortie en 2013. Une vibe plus chaude, avec pour mission de redonner le smile aux auditeurs !
 
-				Mission accomplie puisque le premier tune de l’album, Reggae Music, fait le travail en donnant une bonne dose d’énergie sur un thème qui touchera tous 	les afficionados de musique jamaïcaine. L’artiste n’a pas peur d’utiliser les armes lyricales qu’il a acquises sur la route, seul ou accompagné, pour faire feu musicalement et toucher sa cible en plein cœur (Peng peng en feat Kenyon et Volodia). La route, les tournées ou bien simplement le temps ont certainement permis à l’artiste de proposer un projet construit et travaillé. On ressent un vrai gain de maturité sur cet opus soigné et très bien produit par Evidence Music, le label suisse dont le sérieux n'est plus à prouver. PLus sur joignez Sean Taylor
+				Mission accomplie puisque le premier tune de l’album, Reggae Music, fait le travail en donnant une bonne dose d’énergie sur un thème qui touchera tous 	les afficionados de musique jamaïcaine. L’artiste n’a pas peur d’utiliser les armes lyricales qu’il a acquises sur la route, seul ou accompagné, pour faire feu musicalement et toucher sa cible en plein cœur (Peng peng en feat Kenyon et Volodia). La route, les tournées ou bien simplement le temps ont certainement permis à l’artiste de proposer un projet construit et travaillé. On ressent un vrai gain de maturité sur cet opus soigné et très bien produit par Evidence Music, le label suisse dont le sérieux n'est plus à prouver.
 				</p>	
 				
 
@@ -48,14 +50,15 @@
 		</div><!--end row third-->
 		
 		<div class="row row_custom_fourth contenu">
-			<h2> Dernier release de Sean taylor : Vibes de Yah</h2>
+			<h2> Raggae Jamming Vol no.4 </h2>
 			<div class="imageleft">		
 			<a href="http://www.deezer.com/fr/album/47704802">
 			<img src ="assets/images/nampage2.jpg" width="350px" height="300px"></a>
 			</div>
 			
 			
-			<p>Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker. </p>
+			<p>05/10/2017 <br />
+			Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un peintre anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker. </p>
 			
 
 			<div class="row">
