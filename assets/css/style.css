@@ -5,6 +5,7 @@ p {
 }
 
 h2 {
+    font-family: Ubuntu;
     font-size: 30px;
     text-align: center;
     margin-top: 100px;
@@ -13,6 +14,8 @@ h2 {
 }
 
 h3 {
+    margin-top: 50px;
+    font-family: Ubuntu;
     margin-left: 50px;
     font-weight: bold;
 }
@@ -24,6 +27,7 @@ h4{
 
 body {
     background-color: #DBDBA5;
+    font-family: Open Sans;
 }
 
 /*Helper */
@@ -34,9 +38,12 @@ body {
         display: none;
     }
 
-    /* a changer*/
-    .logo {
-        width: : 100vw;
+    .slider_page {
+        display: none;
+    }
+
+    .text {
+        font-size: 16px;
     }
 }
 
@@ -85,7 +92,7 @@ body {
 
 .container_nav {
     height: 50px;
-    font-style: ubuntu;
+    font-family: Ubuntu;
     font-weight: bold;
     background-color: #DBDBA5;
     padding-left: 100px;
@@ -159,3 +166,35 @@ aside {
     line-height: 28px;
     margin-top: 27px;
 }
+
+
+@media screen and (max-width: 992px) {
+
+    .hidden-xs {
+        display: none;
+    }
+
+    .slider_page {
+        display: none;
+    }
+
+    .text {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    .hidden-xs {
+        display: none;
+    }
+
+    .slider_page {
+        display: none;
+    }
+
+    .text {
+        display: none;
+    }
+}
+
