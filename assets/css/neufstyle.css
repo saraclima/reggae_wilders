@@ -23,6 +23,10 @@
     text-align: left;
 }
 
+.row_custom_second contenu{
+padding-left: 15px;
+}
+
 .col_one {
     height: 15vh;
     color: blue;
@@ -64,6 +68,11 @@
     border-radius: .25em;
 }
 
-.crazy {
-    margin-left: 50px;
+.crazy
+{
+	margin-left: 50px;
+}
+
+h2.title_nam {
+  margin-top: 15px;
 }

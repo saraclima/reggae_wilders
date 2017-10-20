@@ -14,6 +14,7 @@
             <div class="row row_custom_second contenu">
                 <h3> Dernier release de Sean taylor : Vibes de Yah</h3>
                 <a href="https://www.reverbnation.com/seantaylorgh">
+                  
               <img src ="assets/images/sean.png" width="300px" height="300px" class="imageleft"> </a>
                 <div><input type="checkbox" class="read-more-state" id="post-1" />
                     <p class="read-more-wrap">19/10/2017 <br/> Nouveauté: Sean Taylor - Vibes Deh Yah (Feat. Vershon) GhanaNdwom.net Theophilus Tettey Taylor, né le 13 mai 1992 à Osu, banlieue de la région du Grand Accra (capitale du Ghana-Afrique de l'Ouest) a commencé sa carrière musicale à 13 ans en tant qu'artiste "Kasahare" de Hiplife, trouvé la lumière "et a divergé à faire la musique à plein temps de Reggae / Dancehall à l'âge de 14 ans jusqu'à ce jour. Son admiration et sa quête pour atteindre les sommets de superstars sensationnels comme Sean Paul, Sean Kingston et Sean Jean ont influencé son adoption du nom «Sean» qu'il a ajouté à son surnom «Taylor» d'où son nom de showbiz «Sean Taylor».<span class="read-more-target">
