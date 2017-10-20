@@ -27,6 +27,7 @@
 
     <!--agenda-->
     <div class="row row_custom agenda">
+       <h2>AGENDA</h2>
         <ul class="liste1">
             <li>20/10 - 22h30 : Pablo Moses, La scène Bastille</li>
             <li>21/10 - 11h00 : I-tal, Afternoon Parc de Sceau</li>
@@ -47,7 +48,7 @@
             <li>10/11 - 23h30 : Wild Woods and Fields, Le Bus</li>
             <li>10/11 - 22h00 : Chezidek + Irie Ites, Memphis</li>
             <li>11/11 - 23h00 : Skank Paradise, Le disquaire</li>
-            <li>11/11 - 21h30 : Travelsounds + Mc Lucky, le 4 sans</li>
+            <li>11/11 - 21h30 : Travelsounds + Mc Lucky, le 4</li>
             <li>17/11 - 23h30 : Massive’s Corner #40, Le Sanz</li>
             <li>18/11 - 22h30 : The Underground, TheCave</li>
             <li>19/11 - 21h30 : Party Time Anniversary, Trabendo </li>
@@ -60,7 +61,7 @@
             <li>08/12 - 22h30 : DJ Mike Love, Le Concept</li>
             <li>09/12 - 20h00 : Toots and the Maytals,</li>
             <li>10/12 - 19h30 : Danakil, HiyaCoffeShop</li>
-            <li>15/12 - 18h30 : Legal Shot Sound System, La ROdia</li>
+            <li>15/12 - 18h30 : Legal Shot Sound System</li>
             <li>16/12 - 23h30 : Kingfisha + Yanis Odua,Le Sanz</li>
             <li>17/12 - 23h00 : Tryo, Le quai 34</li>
             <li>22/12 - 23h30 : Ky-Mani Marley,</li>
