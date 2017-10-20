@@ -20,7 +20,7 @@ h3 {
     font-weight: bold;
 }
 
-h4{
+h4 {
     color: green;
 }
 
@@ -60,7 +60,6 @@ body {
     float: left;
 }
 
-
 .legende_playlist {
     line-height: 20px;
     padding: 12px;
@@ -74,9 +73,7 @@ body {
 /* header */
 
 .mySlides {
-
     height: 500px;
-
 }
 
 .logocontainer {
@@ -99,11 +96,8 @@ body {
 }
 
 .item_nav {
-
     background-color: #DBDBA5;
     padding: 13px;
-
-
 }
 
 
@@ -149,7 +143,6 @@ caption {
 
 
 aside {
-
     background-color: #DBDBA5;
 }
 
@@ -169,7 +162,6 @@ aside {
 
 
 @media screen and (max-width: 992px) {
-
     .hidden-xs {
         display: none;
     }
@@ -184,7 +176,6 @@ aside {
 }
 
 @media screen and (max-width: 768px) {
-
     .hidden-xs {
         display: none;
     }
@@ -197,4 +188,3 @@ aside {
         display: none;
     }
 }
-
