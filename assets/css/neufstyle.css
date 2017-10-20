@@ -3,13 +3,6 @@
 	margin:20px;
 	padding:20px;
 }
-
-.row_custom_first
-{
-	background-color: yellow;
-	height: 10vh;
-}
-
 .imageleft
 {
 	display: block;
@@ -31,7 +24,6 @@
 	padding : 10px;
 	text-align: left;
 }
-
 .col_one
 {
 height: 15vh;
