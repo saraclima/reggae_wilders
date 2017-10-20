@@ -17,11 +17,17 @@ h3 {
     font-weight: bold;
 }
 
+h4{
+    color: green;
+}
+
 
 body {
     background-color: #DBDBA5;
 }
+
 /*Helper */
+
 @media screen and (max-width: 992px) {
 
     .hidden-xs {
@@ -35,38 +41,14 @@ body {
 }
 
 
-/* bouton quizz */
-.button {
-    display: inline-block;
-    padding: 15px 25px;
-    font-size: 24px;
-    cursor: pointer;
-    text-align: center;
-    text-decoration: none;
-    outline: none;
-    color: #fff;
-    background-color: #4CAF50;
-    border: none;
-    border-radius: 15px;
-    box-shadow: 0 9px #999;
-}
-
-.button:hover {
-    background-color: #3e8e41
-}
-
-.button:active {
-    background-color: #3e8e41;
-    box-shadow: 0 5px #666;
-    transform: translateY(4px);
-}
-
 /* background-color */
+
 .contenu {
     background-color: #DBDBA5;
 }
 
 /* page Playlist */
+
 .flotte {
     float: left;
 }
@@ -86,7 +68,7 @@ body {
 
 .mySlides {
 
-    height:500px;
+    height: 500px;
 
 }
 
@@ -97,8 +79,7 @@ body {
 
 .logo {
     width: 100%;
-    height: 100%    
-    background-image: url('assets/logo2.png');
+    height: 100% background-image: url('assets/logo2.png');
     background-size: cover;
 }
 
@@ -166,16 +147,15 @@ aside {
 }
 
 .liste2 {
-list-style: square inside;
-float: left;
-margin: 20px;
-line-height: 32px;
+    list-style: square inside;
+    float: left;
+    margin: 20px;
+    line-height: 32px;
 }
 
 .liste3 {
-list-style: square inside;
-float: left;
-line-height: 28px;
-margin-top: 27px;
+    list-style: square inside;
+    float: left;
+    line-height: 28px;
+    margin-top: 27px;
 }
-
