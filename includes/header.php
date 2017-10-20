@@ -41,9 +41,9 @@
 	<header>
 		<div class="slider_page">
 			<div class="w3-content w3-section" style="max-width:100%">
+              <img class="mySlides" src="assets/logo2.png" style="width:100%">
 			  <img class="mySlides" src="assets/images/1.jpg" style="width:100%">
 			  <img class="mySlides" src="assets/images/3.jpg" style="width:100%">
-			  <img class="mySlides" src="assets/images/5.png" style="width:100%">
 			  <img class="mySlides" src="assets/images/4.jpg" style="width:100%">
 			</div>
 
