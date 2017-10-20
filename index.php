@@ -16,7 +16,7 @@
 			<div class="container_fluid container_nav">		
 				<div class="row row_nav">
 					<div class="col-md-2 col-xs-12 item_nav">
-						<a href="index.php"> Home</a>
+						<a href="index.php"> Reggae Wilders</a>
 					</div>
 					<div class="col-md-2 col-xs-12 item_nav">
 						<a href="quoideneuf.php"> Quoi de Neuf</a>
@@ -37,7 +37,7 @@
     <!--grand visuel -->
     <div class="container_fluide">
         <div class="row col-md-12">
-            <div class="text">
+            <div class="text welcome-message">
                 <h2>WELCOME TO OUR BLOG <br> REGGAE WILDERS</h2>
             </div>
             <img src="assets/images/contact.jpg" width="103%" height="100%" alt="">

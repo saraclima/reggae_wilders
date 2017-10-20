@@ -3,6 +3,8 @@
 	<meta charset="UTF-8">
 	<title>Reggae Wilders</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu" />
+	<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans" />
 
 	
 
@@ -17,7 +19,7 @@
 			<div class="container_fluid container_nav">		
 				<div class="row row_nav">
 					<div class="col-md-2 col-xs-12 item_nav">
-						<a href="index.php">Home</a>
+						<a href="index.php"> Reggae Wilders</a>
 					</div>
 					<div class="col-md-2 col-xs-12 item_nav">
 						<a href="quoideneuf.php"> Quoi de Neuf</a>
@@ -37,7 +39,7 @@
 
 	<!-- LOGO -->
 	<header>
-
+		<div class="slider_page">
 			<div class="w3-content w3-section" style="max-width:100%">
               <img class="mySlides" src="assets/logo2.png" style="width:100%">
 			  <img class="mySlides" src="assets/images/1.jpg" style="width:100%">
@@ -61,11 +63,12 @@
 			    setTimeout(carousel, 4000); // Change image every 2 seconds
 			}
 			</script>
+		</div>
 		
 	</header>
 
 
-<script type="text/javascript" src="carroussel.js"></script>
+
 
 
 
