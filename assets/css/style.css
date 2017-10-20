@@ -165,3 +165,17 @@ aside {
     background-color: #DBDBA5;
 }
 
+.liste2 {
+list-style: square inside;
+float: left;
+margin: 20px;
+line-height: 32px;
+}
+
+.liste3 {
+list-style: square inside;
+float: left;
+line-height: 28px;
+margin-top: 27px;
+}
+
