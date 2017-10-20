@@ -30,22 +30,7 @@ body {
     font-family: Open Sans;
 }
 
-/*Helper */
 
-@media screen and (max-width: 992px) {
-
-    .hidden-xs {
-        display: none;
-    }
-
-    .slider_page {
-        display: none;
-    }
-
-    .text {
-        font-size: 16px;
-    }
-}
 
 
 /* background-color */
