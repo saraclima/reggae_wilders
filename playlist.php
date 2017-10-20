@@ -6,7 +6,7 @@
 	<!-- Principal content -->
 		<div class="col-md-9 col-xs-12">
 		    <div class="row row_custom">
-		        <h2>Du bon son</h2>
+		        <h2>DU BON SON</h2>
 		    </div>
 	    <section>
 	        <!--article playlist-->
@@ -20,7 +20,8 @@
 							 <iframe width="300" height="169" src="https://www.youtube.com/embed/8WUafMX-L2o" frameborder="0" allowfullscreen></iframe>
 							</p>
 							<h4> Shame and Pride - Mighty Diamonds | Album : Trenchtown Mix Up | 1976 </h4>
-							<p class="legende_playlist"> Hit tune by the jamaican vocal trio, trusted to have been originally recorded at Randys in 1974 and released as a 7" different version Jah Lloyd's Teem label single. It was firstly was featured on one "Sounds And Pressure" compilations and then appeared (with the same rhythm) on the Mighty Diamonds "Right Time".
+							<p class="legende_playlist"> Hit tune du trio vocal jamaïcain, réputé pour avoir été enregistré à l'origine chez Randys en 1974 et sorti en tant que single label de Jah Lloyd's Teem en version 7. Il a d'abord été présenté sur une compilations «Sounds And Pressure» puis est apparu le même rythme sur le Mighty Diamonds "Right Time".
+
 							</p>	
 	        			</div>
 

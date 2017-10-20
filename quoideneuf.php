@@ -1,4 +1,4 @@
-	<link rel="stylesheet" type="text/css" href="assets/css/neufstyle.css">
+<link rel="stylesheet" type="text/css" href="assets/css/neufstyle.css">
 
 	<?php include('includes/header.php'); ?>
 	<!--link pour les base de H2 -->
@@ -8,7 +8,7 @@
 		<div class="col-md-9 col-xs-12">
 			<section>
 				<div class="title">
-				<h2 class="title_nam"> Quoi de neuf</h2>
+				<h2 class="title_nam"> QUOI DE NEUF ?</h2>
 				</div>
 							
 			<div class="row row_custom_second contenu">
@@ -26,15 +26,13 @@
 					Sean Taylor a monté plusieurs plates-formes sur toute la longueur du Ghana pour des spectacles musicaux et est devenu un nom familier au sein de la fraternité Reggae / Dancehall en ce qui concerne Ghana Reggae / Dancehall.</p>
 						
 				<a href="#">
-				<img src="assets/images/love.png" width="35px" height="35px"> </a>
+				<img src="assets/images/love.png" width="35px" height="35px"></a>
 				<a href="#">
-				<img src="assets/images/bird.png" width="35px" height="35px""></a>
+				<img src="assets/images/bird.png" width="35px" height="35px"></a>
 				<a href="#">
 				<img src="assets/images/roundfb.png" width="35px" height="35px"></a>	
 			
-
 			</div><!--end row sencond-->
-
 		
 			<div class="row row_custom_third contenu">
 				<h2> Mardjenal - Smile Again</h2>
@@ -43,18 +41,18 @@
 				<img src ="assets/images/nampage.jpg" width="300px" height="300px" class="imageright">
 				</a>
 				<p> 12/10/2017 <br/>
-					Cet été on a eu droit à quelques belles sorties musicales dont le troisième projet de Mardjenal Smile Again. Mardjenal s’éloigne de son EP éponyme pour se rapprocher légèrement de sa mixtape Smilesortie en 2013. Une vibe plus chaude, avec pour mission de redonner le smile aux auditeurs !
-					Mission accomplie puisque le premier tune de l’album, Reggae Music, fait le travail en donnant une bonne dose d’énergie sur un thème qui touchera tous 	les afficionados de musique jamaïcaine. L’artiste n’a pas peur d’utiliser les armes lyricales qu’il a acquises sur la route, seul ou accompagné, pour faire feu musicalement et toucher sa cible en plein cœur (Peng peng en feat Kenyon et Volodia). La route, les tournées ou bien simplement le temps ont certainement permis à l’artiste de proposer un projet construit et travaillé. On ressent un vrai gain de maturité sur cet opus soigné et très bien produit par Evidence Music, le label suisse dont le sérieux n'est plus à prouver.<br />
+					Cet été on a eu droit à quelques belles sorties musicales dont le troisième projet de Mardjenal Smile Again. Mardjenal s’éloigne de son EP éponyme pour se rapprocher légèrement de sa mixtape Smilesortie en 2013. Une vibe plus chaude, avec pour mission de redonner le smile aux auditeurs !
+					Mission accomplie puisque le premier tune de l’album, Reggae Music, fait le travail en donnant une bonne dose d’énergie sur un thème qui touchera tous 	les afficionados de musique jamaïcaine. L’artiste n’a pas peur d’utiliser les armes lyricales qu’il a acquises sur la route, seul ou accompagné, pour faire feu musicalement et toucher sa cible en plein cœur (Peng peng en feat Kenyon et Volodia). La route, les tournées ou bien simplement le temps ont certainement permis à l’artiste de proposer un projet construit et travaillé. On ressent un vrai gain de maturité sur cet opus soigné et très bien produit par Evidence Music, le label suisse dont le sérieux n'est plus à prouver.<br />
 				<a href="#">
 				<img src="assets/images/love.png" width="35px" height="35px"> </a>
 				<a href="#">
-				<img src="assets/images/bird.png" width="35px" height="35px""></a>
+				<img src="assets/images/bird.png" width="35px" height="35px"></a>
 				<a href="#">
 				<img src="assets/images/roundfb.png" width="35px" height="35px"></a></p>	
 				</div><!--end row third-->
 		
 			<div class="row row_custom_fourth contenu">
-				<h2> Raggae Jamming Vol no.4 </h2>
+				<h2> Reggae Jamming Vol no.4 </h2>
 				<div class="imageleft">		
 				<a href="http://www.deezer.com/fr/album/47704802">
 				<img src ="assets/images/nampage2.jpg" width="350px" height="300px"></a>
@@ -64,23 +62,14 @@
 					<a href="#">
 				<img src="assets/images/love.png" width="35px" height="35px"> </a>
 				<a href="#">
-				<img src="assets/images/bird.png" width="35px" height="35px""></a>
+				<img src="assets/images/bird.png" width="35px" height="35px"></a>
 				<a href="#">
 				<img src="assets/images/roundfb.png" width="35px" height="35px"></a>	    
 			</div><!--end row fourth--> 
-
 	</section>
-
 	</div><!--end row container-->
-
-
 	<!-- Aside -->
 	<?php include('includes/aside.php'); ?>
-
 	</div> <!--end container fluid-->
-
 	<!-- Footer -->
 	<?php include("includes/footer.php"); ?>
-
-
-
