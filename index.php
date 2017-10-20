@@ -23,7 +23,7 @@
 		<nav>
 			<div class="container_fluid container_nav">		
 				<div class="row row_nav">
-					<div class="col-md-2 col-xs-12 item_nav">
+					<div class="col-md-offset-1 col-md-2 col-xs-12 item_nav">
 						<a href="index.php"><img src="assets/images/favirw.png" width="26px" height="26px" /> Reggae Wilders</a>
 					</div>
 					<div class="col-md-2 col-xs-12 item_nav">
