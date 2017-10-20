@@ -41,5 +41,6 @@
                 <h2>WELCOME TO OUR BLOG <br> REGGAE WILDERS</h2>
             </div>
             <img src="assets/images/contact.jpg" width="103%" height="100%" alt="">
+
         </div>
     </div>

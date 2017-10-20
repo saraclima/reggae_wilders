@@ -18,6 +18,10 @@ h3 {
 }
 
 
+
+
+/*Helper */
+
 body {
     background-color: #DBDBA5;
 }
@@ -33,6 +37,8 @@ body {
         width: : 100vw;
     }
 }
+
+
 
 
 /* bouton quizz */
@@ -62,11 +68,13 @@ body {
 }
 
 /* background-color */
+
 .contenu {
     background-color: #DBDBA5;
 }
 
 /* page Playlist */
+
 .flotte {
     float: left;
 }
@@ -80,27 +88,11 @@ body {
 .content_playlist {
     padding: 15px;
     float: right;
+
 }
 
 /* header */
 
-.mySlides {
-
-    height:500px;
-
-}
-
-.logocontainer {
-    background-color: #DBDBA5;
-    height: 100vh;
-}
-
-.logo {
-    width: 100%;
-    height: 100%    
-    background-image: url('assets/logo2.png');
-    background-size: cover;
-}
 
 .container_nav {
     height: 50px;
@@ -110,11 +102,15 @@ body {
     padding-left: 100px;
 }
 
+
 .item_nav {
-
-    background-color: #DBDBA5;
     padding: 13px;
+}
 
+
+.mySlides {
+
+    height:500px;
 
 }
 
@@ -133,6 +129,7 @@ a:focus,
 a:active {
     color: green;
 }
+
 
 
 
@@ -164,4 +161,5 @@ aside {
 
     background-color: #DBDBA5;
 }
+
 
