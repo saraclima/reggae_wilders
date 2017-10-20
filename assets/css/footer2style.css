@@ -1,0 +1,21 @@
+
+.wrap/*to make footer stick to the bottom; not working as of now 17/10*/
+{
+padding: 20px;
+margin-top: 20px;
+text-align: center;
+font-size: 15px;
+background-color: gray;
+}
+
+ul.unstyle
+{
+list-style: none;
+font size: 30px;
+}
+
+ul li a {
+color: white !important;
+}
+
+
