@@ -14,6 +14,11 @@
 	text-align: right;
 }
 
+.row_custom_second contenu{
+
+padding-left: 15px;
+
+}
 .imageright
 {
 	display: block;
@@ -69,4 +74,8 @@ color: blue;
 	margin-left: 50px;
 }
 
+h2.title_nam {
+
+  margin-top: 15px;
+}
 

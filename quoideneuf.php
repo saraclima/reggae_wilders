@@ -6,11 +6,12 @@
 
 		<!-- Principal content -->
 	<div class="container-fluid container_custom">
-		<div class="col-md-9 col-xs-12">
-			<section>
-				<div class="title">
+		<div class="title">
 				    <h2 class="title_nam"> QUOI DE NEUF ?</h2>
         </div>
+		<div class="col-md-9 col-xs-12">
+			<section>
+				
      <div class="row row_custom_second contenu">
         <h3> Dernier release de Sean taylor : Vibes de Yah</h3>
               <a href="https://www.reverbnation.com/seantaylorgh">
