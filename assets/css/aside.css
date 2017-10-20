@@ -1,34 +1,21 @@
+.fbk {
+    margin-bottom: 70px;
+    margin-top: 60px;
+}
+
 .search {
-margin-top: 60px;
-margin-bottom: 70px;
+    margin-bottom: 70px;
 }
 
 
 .radio {
-margin-bottom: 70px;
-}
-
-.twitter {
-margin-bottom: 70px;
-}
-
-.fbk {
-margin-bottom: 70px;
+    margin-bottom: 70px;
 }
 
 .agenda {
-margin-bottom: 70px;
-}
-
-.quizz {
-text-align: center;
-}
-
-.twitter-share-button {
-width: 430px;
-height: 250px;
+    margin-bottom: 70px;
 }
 
 .liste1 {
-list-style: circle;
+    list-style: circle;
 }

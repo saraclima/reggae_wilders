@@ -1,22 +1,21 @@
-		<link rel="stylesheet" type="text/css" href="assets/css/neufstyle.css">
+<link rel="stylesheet" type="text/css" href="assets/css/neufstyle.css">
 
+  	<!--link pour les base de H2 -->
 		<?php include('includes/header.php'); ?>
-		<!--link pour les base de H2 -->
+	
 
 		<!-- Principal content -->
-		<div class="container-fluid container_custom">
-			<div class="col-md-9 col-xs-12">
-				<section>
-					<div class="title">
-					<h2 class="title_nam"> Quoi de neuf</h2>
-					</div>
-								
-				<div class="row row_custom_second contenu">
-							
-					<h3> Dernier release de Sean taylor : Vibes de Yah</h3>
-					<a href="https://www.reverbnation.com/seantaylorgh">
-					<img src ="assets/images/sean.png" width="300px" height="300px" class="imageleft"> </a>
-					 <div><input type="checkbox" class="read-more-state" id="post-1" />		
+	<div class="container-fluid container_custom">
+		<div class="col-md-9 col-xs-12">
+			<section>
+				<div class="title">
+				    <h2 class="title_nam"> QUOI DE NEUF ?</h2>
+        </div>
+     <div class="row row_custom_second contenu">
+        <h3> Dernier release de Sean taylor : Vibes de Yah</h3>
+              <a href="https://www.reverbnation.com/seantaylorgh">
+              <img src ="assets/images/sean.png" width="300px" height="300px" class="imageleft"> </a>
+			  <div><input type="checkbox" class="read-more-state" id="post-1" />		
 					<p class="read-more-wrap">19/10/2017 <br/>
 						Nouveauté: Sean Taylor - Vibes Deh Yah (Feat. Vershon)
 						GhanaNdwom.net
@@ -32,23 +31,23 @@
 					<img src="assets/images/roundfb.png" width="35px" height="35px"></a>	
 					<label for="post-1" class="read-more-trigger"></label></div>
 				
-				</div><!--end row sencond-->
+				</div>  <!--end row sencond-->
 
 			
 				<div class="row row_custom_third contenu">
 					<h3> Mardjenal - Smile Again</h3>
 				 
 					<a href="http://www.deezer.com/fr/album/45927192">				
-					<img src ="assets/images/nampage.jpg" width="300px" height="300px" class="imageright">
+					  <img src ="assets/images/nampage.jpg" width="300px" height="300px" class="imageright">
 					</a>
-					<div><input type="checkbox" class="read-more-state" id="post-2" />	
+				<div><input type="checkbox" class="read-more-state" id="post-2" />	
 					<p class="read-more-wrap"> 12/10/2017 <br/>
 						Cet été on a eu droit à quelques belles sorties musicales dont le troisième projet de Mardjenal Smile Again. Mardjenal s’éloigne de son EP éponyme pour se rapprocher légèrement de sa mixtape Smilesortie en 2013. Une vibe plus chaude, avec pour mission de redonner le smile aux auditeurs !
 						Mission accomplie puisque le premier tune de l’album, Reggae Music, fait le travail en donnant une bonne dose d’énergie sur un thème qui touchera tous 	les afficionados de musique jamaïcaine. L’artiste n’a pas peur d’utiliser les armes lyricales qu’il a acquises sur la route, seul ou accompagné, pour faire feu musicalement et toucher sa cible en plein cœur (Peng peng en feat Kenyon et Volodia).<span class="read-more-target">
 						 La route, les tournées ou bien simplement le temps ont certainement permis à l’artiste de proposer un projet construit et travaillé. On ressent un vrai gain de maturité sur cet opus soigné et très bien produit par Evidence Music, le label suisse dont le sérieux n'est plus à prouver.</span> </p>
 						 									
 						<a class="crazy" href="#">
-						<img src="assets/images/love.png" width="35px" height="35px"> </a>
+						    <img src="assets/images/love.png" width="35px" height="35px"> </a>
 						<a href="#">
 						<img src="assets/images/bird.png" width="35px" height="35px""></a>
 						<a href="#">
@@ -56,6 +55,7 @@
 						<label for="post-2" class="read-more-trigger"></label>
 						</div>
 						
+
 					</div><!--end row third-->
 			
 				<div class="row row_custom_fourth contenu">
