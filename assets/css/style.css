@@ -19,8 +19,13 @@ h3 {
 
 
 
+
 /*Helper */
 
+body {
+    background-color: #DBDBA5;
+}
+/*Helper */
 @media screen and (max-width: 992px) {
 
     .hidden-xs {
@@ -34,8 +39,9 @@ h3 {
 }
 
 
-/* bouton quizz */
 
+
+/* bouton quizz */
 .button {
     display: inline-block;
     padding: 15px 25px;
@@ -82,21 +88,11 @@ h3 {
 .content_playlist {
     padding: 15px;
     float: right;
+
 }
 
 /* header */
 
-.logocontainer {
-    background-color: orange;
-    height: 80vh;
-}
-
-.logo {
-    height: 100%;
-    width: 100%;
-    background-image: url('assets/logo2.png');
-    background-size: cover;
-}
 
 .container_nav {
     height: 50px;
@@ -105,6 +101,20 @@ h3 {
     background-color: #DBDBA5;
     padding-left: 100px;
 }
+
+
+.item_nav {
+    padding: 13px;
+}
+
+
+.mySlides {
+
+    height:500px;
+
+}
+
+
 
 a:link {
     color: black;
@@ -117,12 +127,11 @@ a:visited {
 a:hover,
 a:focus,
 a:active {
-    color: red;
+    color: green;
 }
 
-.item_nav {
-    padding: 13px;
-}
+
+
 
 /*tableau*/
 
@@ -146,3 +155,11 @@ caption {
     margin-left: 50px;
     margin-bottom: 20px;
 }
+
+
+aside {
+
+    background-color: #DBDBA5;
+}
+
+

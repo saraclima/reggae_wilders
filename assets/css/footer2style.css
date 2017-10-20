@@ -1,14 +1,11 @@
 
-#footer/*to make footer stick to the bottom; not working as of now 17/10*/
+.wrap/*to make footer stick to the bottom; not working as of now 17/10*/
 {
-height: 10%;
-padding: 50px;
-margin-top: 35px;
+padding: 20px;
+margin-top: 20px;
 text-align: center;
 font-size: 15px;
-color: black;
-border:1px solid white;
-width: 90%;
+background-color: gray;
 }
 
 ul.unstyle
@@ -16,3 +13,9 @@ ul.unstyle
 list-style: none;
 font size: 30px;
 }
+
+ul li a {
+color: white !important;
+}
+
+
